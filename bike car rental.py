@@ -91,8 +91,8 @@ elif ch==2:
         print("TOTAL AMOUNT:",dayss*800)
         print("------------------------")
         print("THANK YOU YOUR BOOKING IS SUCCESSFULLY DONE")
-    else:
-        print("invalid choice")
+else:
+    print("invalid choice")
     
 
 
